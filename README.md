@@ -135,11 +135,8 @@ I help align dev, ops, and business teams with **engineering workflows and gover
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wjeffar&show_icons=true&theme=tokyonight&count_private=true" />
   <br/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjeffar&layout=compact&theme=tokyonight&langs_count=10" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wjeffar&theme=tokyonight" />
-  <br/><br/>
+  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wjeffar&theme=tokyonight" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wjeffar&theme=tokyonight" />
