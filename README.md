@@ -24,43 +24,42 @@ I blend **technical expertise** with a strong sense of **craftsmanship** and a *
 ## ⚙️ Technology & Tooling
 
 ### 💾 Databases
-`MySQL` • `Oracle` • `PostgreSQL` • `MongoDB`
+`Oracle` • `PostgreSQL` • `MongoDB`
 
 ### 🧱 Backend & Java Stack
 `Java` • `Spring Boot / Data / Cloud / Batch / Integration` • `Hibernate` • `Micronaut`
 
 ### 🎨 Frontend & TypeScript Stack
-`Angular` • `Vue.js` • `Node.js` • `TypeScript` • `HTML/CSS` • `RxJS`
+`Angular` • `Vue.js` • `Node.js` • `TypeScript`
 
 ### 🧰 Build & Versioning
-`Maven` • `Gradle` • `Gulp.js` • `Packer` • `Git` • `GitLab` • `GitHub` • `DockerHub` • `NPM`
+`Maven` • `Gradle` • `Gulp.js` • `Packer` • `GitLab` • `GitHub` • `DockerHub`
 
 ### 🔁 CI / CD Tooling
-`Jenkins` • `Drone CI` • `Argo CD` • `Flux` • `Spinnaker`
+`Jenkins` • `Argo CD` • `Spinnaker`
 
 ### 🧪 Testing
-- **Browser Testing**: `Selenium` • `Galen Framework` • `Cypress`
+- **Browser Testing**: `Selenium` • `Cypress`
 - **Load/Performance**: `K6`
 - **Security & Configuration**: `BlackDuck` • `Snort` • `ServerSpec`
-- **Code Testing**: `JUnit` • `Jest` • `Mocha` • `Karma` • `Jasmine`
+- **Code Testing**: `JUnit` • `Jest` • `Karma` • `Jasmine`
 
 ### ☁️ DevOps & Infrastructure
-- **Provisioning**: `Terraform` • `Pulumi` • `Crossplane`
+- **Provisioning**: `Terraform`
 - **Configuration**: `Ansible`
-- **Secrets & Security**: `Vault` • `Conjur` • `Doppler`
+- **Secrets & Security**: `Vault`
 
 ### 📦 Containerization & Cloud
-`Docker` • `Podman` • `Buildah` • `Kubernetes` • `OpenStack` • `OKD`  
-**Serverless**: `OpenFaaS` • `Apache OpenWhisk` • `Knative`
+`Docker` • `Kubernetes` • `OpenStack`  
+**Serverless**: `Knative`
 
 ### 🖥️ Runtime & OS
 `Java` • `Node.js` • `Go`  
-`Fedora` • `Ubuntu` • `Debian` • `Kali` • `Fedora CoreOS`
+`Fedora CoreOS`
 
 ### 📊 Monitoring & Observability
-`Grafana` • `Prometheus` • `Jaeger` • `Honeycomb` • `Graphite`  
-`Sentry` • `Rollbar` • `GlitchTip`  
-`Fluentd` • `OpenSearch Dashboards`
+`Grafana` • `Prometheus`  
+`Sentry`  
 
 ---
 
@@ -92,7 +91,6 @@ I blend **technical expertise** with a strong sense of **craftsmanship** and a *
 - **Monoliths**
 - **N-Tiers**
 - **Microservices**
-- **SOA**
 - **Event-Driven**
 - **CQRS**
 - **Serverless**
@@ -100,12 +98,12 @@ I blend **technical expertise** with a strong sense of **craftsmanship** and a *
 - **Domain-Driven Design**
 
 ### 📐 Design & Code Quality
-- Clean Code principles: `KISS` • `DRY` • `YAGNI` • `SOLID`
-- Best Practices: `TDD` • `BDD` • `DDD` • `Refactoring` • `Code Reviews`
+- Clean Code principles: `KISS` • `DRY` • `SOLID`
+- Best Practices: `TDD` • `BDD` • `DDD` • `Code Reviews`
 - Design Patterns: Factory, Strategy, Singleton, Adapter, Observer, Decorator…
 
 ### 🚀 Agile Mindset
-- Methodologies: `Scrum` • `Shape Up` • `Agile Architecture`
+- Methodologies: `Scrum` • `Shape Up`
 - Culture: cross-functional teams, iterative delivery, continuous feedback
 
 ---
